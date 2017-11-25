@@ -1,6 +1,3 @@
-# 金控二代(Angular4 )
-
-
 ## 开发环境
 
 1. 进入 src 目录后运行 npm install 
